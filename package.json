@@ -1,0 +1,14 @@
+{
+  "name": "ReactJS News Mini-site",
+  "version": "1.0.0",
+  "description": "ReactJS News Mini-site",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "George Vyshnya",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.13.4"
+  }
+}
