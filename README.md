@@ -1,5 +1,5 @@
 # Overview
-This is a basic show-case project to a News feed mini-site in ReactJS (with mini-server for it implemented in node.js).
+This is a basic show-case project to build a News feed one-page mini-site in ReactJS (with mini-server for it implemented in node.js).
 
 # Running the News Mini-Site
 To try the mini-site on your local machine, you should act as follows
